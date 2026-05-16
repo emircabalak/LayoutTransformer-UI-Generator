@@ -1,0 +1,1487 @@
+[
+  {
+    "id": 0,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 0.129,
+        "y_max": 0.0968,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.0323,
+        "x_max": 0.2903,
+        "y_max": 0.0645,
+        "style_id": 1
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.871,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.0968,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.0968,
+        "x_max": 0.4839,
+        "y_max": 0.3548,
+        "style_id": 0
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.0968,
+        "x_max": 0.4839,
+        "y_max": 0.2903,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.2903,
+        "x_max": 0.3871,
+        "y_max": 0.3226,
+        "style_id": 5
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.3871,
+        "y_min": 0.2903,
+        "x_max": 0.4516,
+        "y_max": 0.3226,
+        "style_id": 6
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.0968,
+        "x_max": 0.4839,
+        "y_max": 0.3548,
+        "style_id": 4
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.0968,
+        "x_max": 0.4839,
+        "y_max": 0.3548,
+        "style_id": 5
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.4839,
+        "y_min": 0.0968,
+        "x_max": 0.9677,
+        "y_max": 0.3548,
+        "style_id": 6
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.4839,
+        "y_min": 0.0968,
+        "x_max": 0.9677,
+        "y_max": 0.2903,
+        "style_id": 7
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.5161,
+        "y_min": 0.2903,
+        "x_max": 0.871,
+        "y_max": 0.3226,
+        "style_id": 3
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.871,
+        "y_min": 0.2903,
+        "x_max": 0.9355,
+        "y_max": 0.3226,
+        "style_id": 4
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.4839,
+        "y_min": 0.0968,
+        "x_max": 0.9677,
+        "y_max": 0.3548,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.4839,
+        "y_min": 0.0968,
+        "x_max": 0.9677,
+        "y_max": 0.3548,
+        "style_id": 3
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.3548,
+        "x_max": 0.4839,
+        "y_max": 0.5806,
+        "style_id": 5
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.3548,
+        "x_max": 0.4839,
+        "y_max": 0.5161,
+        "style_id": 6
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.5484,
+        "x_max": 0.3871,
+        "y_max": 0.5806,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.3871,
+        "y_min": 0.5484,
+        "x_max": 0.4516,
+        "y_max": 0.5806,
+        "style_id": 3
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.3548,
+        "x_max": 0.4839,
+        "y_max": 0.5806,
+        "style_id": 1
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.0645,
+        "style_id": 5
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.0645,
+        "x_max": 0.0968,
+        "y_max": 0.129,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.0968,
+        "x_max": 0.3871,
+        "y_max": 0.129,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.1613,
+        "x_max": 0.0968,
+        "y_max": 0.2258,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.1613,
+        "x_max": 0.4516,
+        "y_max": 0.1935,
+        "style_id": 4
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.2258,
+        "x_max": 0.0968,
+        "y_max": 0.2903,
+        "style_id": 5
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.2581,
+        "x_max": 0.3226,
+        "y_max": 0.2903,
+        "style_id": 6
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.3226,
+        "x_max": 0.0968,
+        "y_max": 0.3871,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.3226,
+        "x_max": 0.3871,
+        "y_max": 0.3548,
+        "style_id": 1
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.3871,
+        "x_max": 0.0968,
+        "y_max": 0.4516,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.4194,
+        "x_max": 0.3871,
+        "y_max": 0.4516,
+        "style_id": 3
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.4839,
+        "x_max": 0.0968,
+        "y_max": 0.5484,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.4839,
+        "x_max": 0.3548,
+        "y_max": 0.5161,
+        "style_id": 5
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.5806,
+        "x_max": 0.0968,
+        "y_max": 0.6129,
+        "style_id": 6
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.5806,
+        "x_max": 0.3871,
+        "y_max": 0.6129,
+        "style_id": 7
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.6452,
+        "x_max": 0.0968,
+        "y_max": 0.7097,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.6452,
+        "x_max": 0.4194,
+        "y_max": 0.6774,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.7419,
+        "x_max": 0.0968,
+        "y_max": 0.7742,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.7419,
+        "x_max": 0.3548,
+        "y_max": 0.7742,
+        "style_id": 4
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.8065,
+        "x_max": 0.0968,
+        "y_max": 0.871,
+        "style_id": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.0645,
+        "style_id": 5
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.0645,
+        "x_max": 0.129,
+        "y_max": 0.129,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1613,
+        "y_min": 0.0645,
+        "x_max": 0.8065,
+        "y_max": 0.129,
+        "style_id": 2
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.8387,
+        "y_min": 0.0645,
+        "x_max": 0.9677,
+        "y_max": 0.129,
+        "style_id": 3
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.8387,
+        "y_min": 0.0645,
+        "x_max": 0.9677,
+        "y_max": 0.129,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.1613,
+        "x_max": 0.9677,
+        "y_max": 0.1935,
+        "style_id": 5
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.1935,
+        "x_max": 0.9677,
+        "y_max": 0.2258,
+        "style_id": 6
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.2581,
+        "x_max": 0.9677,
+        "y_max": 0.2903,
+        "style_id": 7
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.2903,
+        "x_max": 0.9677,
+        "y_max": 0.3226,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.3871,
+        "x_max": 0.9677,
+        "y_max": 0.4194,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.4194,
+        "x_max": 0.9677,
+        "y_max": 0.4516,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.4839,
+        "x_max": 0.9677,
+        "y_max": 0.5161,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.5161,
+        "x_max": 0.9677,
+        "y_max": 0.5484,
+        "style_id": 5
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.5806,
+        "x_max": 0.9677,
+        "y_max": 0.6452,
+        "style_id": 6
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.6452,
+        "x_max": 0.9677,
+        "y_max": 0.6774,
+        "style_id": 0
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.2903,
+        "y_min": 0.8387,
+        "x_max": 0.6774,
+        "y_max": 0.9032,
+        "style_id": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.0323,
+        "x_max": 0.3871,
+        "y_max": 0.0645,
+        "style_id": 0
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 0.129,
+        "y_max": 0.0968,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.0968,
+        "x_max": 0.3226,
+        "y_max": 0.1613,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.3226,
+        "y_min": 0.0968,
+        "x_max": 0.6452,
+        "y_max": 0.1613,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.6452,
+        "y_min": 0.0968,
+        "x_max": 1.0,
+        "y_max": 0.1613,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.1935,
+        "x_max": 0.9355,
+        "y_max": 0.2258,
+        "style_id": 5
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.2581,
+        "x_max": 1.0,
+        "y_max": 0.2903,
+        "style_id": 6
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0323,
+        "y_min": 0.3226,
+        "x_max": 0.129,
+        "y_max": 0.3871,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1935,
+        "y_min": 0.3548,
+        "x_max": 0.9355,
+        "y_max": 0.3871,
+        "style_id": 1
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0323,
+        "y_min": 0.4194,
+        "x_max": 0.129,
+        "y_max": 0.4839,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1935,
+        "y_min": 0.4194,
+        "x_max": 0.9355,
+        "y_max": 0.4839,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.5484,
+        "x_max": 1.0,
+        "y_max": 0.5806,
+        "style_id": 4
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0323,
+        "y_min": 0.6129,
+        "x_max": 0.129,
+        "y_max": 0.6774,
+        "style_id": 6
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1935,
+        "y_min": 0.6129,
+        "x_max": 0.9355,
+        "y_max": 0.6774,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.7419,
+        "x_max": 1.0,
+        "y_max": 0.7742,
+        "style_id": 0
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0323,
+        "y_min": 0.8065,
+        "x_max": 0.129,
+        "y_max": 0.871,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1935,
+        "y_min": 0.8065,
+        "x_max": 0.9355,
+        "y_max": 0.8387,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.2581,
+        "y_min": 0.2903,
+        "x_max": 0.7097,
+        "y_max": 0.5484,
+        "style_id": 7
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.2581,
+        "y_min": 0.5806,
+        "x_max": 0.7097,
+        "y_max": 0.6452,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1613,
+        "y_min": 0.6452,
+        "x_max": 0.8065,
+        "y_max": 0.6774,
+        "style_id": 5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1613,
+        "y_min": 0.0323,
+        "x_max": 0.4194,
+        "y_max": 0.0645,
+        "style_id": 0
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 0.129,
+        "y_max": 0.0968,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.0968,
+        "x_max": 1.0,
+        "y_max": 0.1613,
+        "style_id": 7
+      },
+      {
+        "class": "Slider",
+        "class_id": 7,
+        "x_min": 0.4194,
+        "y_min": 0.5161,
+        "x_max": 0.5484,
+        "y_max": 0.5806,
+        "style_id": 4
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.4194,
+        "x_max": 0.1935,
+        "y_max": 0.4839,
+        "style_id": 5
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.4839,
+        "y_min": 0.4194,
+        "x_max": 0.6774,
+        "y_max": 0.4839,
+        "style_id": 6
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.7742,
+        "x_max": 0.1935,
+        "y_max": 0.8387,
+        "style_id": 0
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.4839,
+        "y_min": 0.7742,
+        "x_max": 0.6774,
+        "y_max": 0.8387,
+        "style_id": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.0968,
+        "x_max": 0.1613,
+        "y_max": 0.129,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.1613,
+        "x_max": 0.2258,
+        "y_max": 0.1935,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1613,
+        "y_min": 0.0323,
+        "x_max": 0.3548,
+        "y_max": 0.0645,
+        "style_id": 4
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 0.129,
+        "y_max": 0.0968,
+        "style_id": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.0323,
+        "x_max": 0.3871,
+        "y_max": 0.0645,
+        "style_id": 0
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 0.129,
+        "y_max": 0.0968,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.0968,
+        "x_max": 0.3226,
+        "y_max": 0.1613,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.3226,
+        "y_min": 0.0968,
+        "x_max": 0.6452,
+        "y_max": 0.1613,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.6452,
+        "y_min": 0.0968,
+        "x_max": 1.0,
+        "y_max": 0.1613,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.3548,
+        "y_min": 0.7742,
+        "x_max": 0.4839,
+        "y_max": 0.8387,
+        "style_id": 7
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.4839,
+        "y_min": 0.7742,
+        "x_max": 0.6129,
+        "y_max": 0.8387,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0968,
+        "y_min": 0.871,
+        "x_max": 0.871,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.1935,
+        "y_min": 0.1935,
+        "x_max": 0.3226,
+        "y_max": 0.2581,
+        "style_id": 0
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.3548,
+        "y_min": 0.1935,
+        "x_max": 0.4839,
+        "y_max": 0.2581,
+        "style_id": 1
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.4839,
+        "y_min": 0.1935,
+        "x_max": 0.6129,
+        "y_max": 0.2581,
+        "style_id": 2
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.6452,
+        "y_min": 0.1935,
+        "x_max": 0.7742,
+        "y_max": 0.2581,
+        "style_id": 3
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.1935,
+        "y_min": 0.2903,
+        "x_max": 0.3226,
+        "y_max": 0.3548,
+        "style_id": 5
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.3548,
+        "y_min": 0.2903,
+        "x_max": 0.4839,
+        "y_max": 0.3548,
+        "style_id": 6
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.4839,
+        "y_min": 0.2903,
+        "x_max": 0.6129,
+        "y_max": 0.3548,
+        "style_id": 7
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.6452,
+        "y_min": 0.2903,
+        "x_max": 0.7742,
+        "y_max": 0.3548,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.4839,
+        "x_max": 0.2903,
+        "y_max": 0.5161,
+        "style_id": 1
+      },
+      {
+        "class": "Slider",
+        "class_id": 7,
+        "x_min": 0.2903,
+        "y_min": 0.4839,
+        "x_max": 0.9677,
+        "y_max": 0.5161,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.5484,
+        "x_max": 0.2903,
+        "y_max": 0.5806,
+        "style_id": 3
+      },
+      {
+        "class": "Slider",
+        "class_id": 7,
+        "x_min": 0.2903,
+        "y_min": 0.5484,
+        "x_max": 0.9677,
+        "y_max": 0.5806,
+        "style_id": 4
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.0323,
+        "x_max": 0.3226,
+        "y_max": 0.0645,
+        "style_id": 0
+      },
+      {
+        "class": "Button",
+        "class_id": 1,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 0.129,
+        "y_max": 0.0968,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.0968,
+        "x_max": 1.0,
+        "y_max": 0.129,
+        "style_id": 7
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.129,
+        "x_max": 1.0,
+        "y_max": 0.1935,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.1935,
+        "x_max": 1.0,
+        "y_max": 0.2903,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.2903,
+        "x_max": 1.0,
+        "y_max": 0.3548,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.3548,
+        "x_max": 1.0,
+        "y_max": 0.4194,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.4194,
+        "x_max": 1.0,
+        "y_max": 0.4839,
+        "style_id": 5
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.4839,
+        "x_max": 1.0,
+        "y_max": 0.5161,
+        "style_id": 6
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.5161,
+        "x_max": 1.0,
+        "y_max": 0.5806,
+        "style_id": 7
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.5806,
+        "x_max": 1.0,
+        "y_max": 0.6452,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.6452,
+        "x_max": 1.0,
+        "y_max": 0.7097,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.7097,
+        "x_max": 1.0,
+        "y_max": 0.7742,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0645,
+        "y_min": 0.7742,
+        "x_max": 1.0,
+        "y_max": 0.8387,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.8387,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 5
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "elements": [
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 1
+      },
+      {
+        "class": "Panel",
+        "class_id": 0,
+        "x_min": 0.0,
+        "y_min": 0.0323,
+        "x_max": 1.0,
+        "y_max": 0.9032,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.0968,
+        "x_max": 1.0,
+        "y_max": 0.129,
+        "style_id": 5
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.1613,
+        "x_max": 0.2258,
+        "y_max": 0.1935,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.1935,
+        "x_max": 0.8065,
+        "y_max": 0.2581,
+        "style_id": 2
+      },
+      {
+        "class": "Toggle",
+        "class_id": 8,
+        "x_min": 0.8387,
+        "y_min": 0.1935,
+        "x_max": 0.9355,
+        "y_max": 0.2258,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.2581,
+        "x_max": 1.0,
+        "y_max": 0.3226,
+        "style_id": 1
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.3226,
+        "x_max": 0.2903,
+        "y_max": 0.3548,
+        "style_id": 6
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0323,
+        "y_min": 0.3548,
+        "x_max": 0.9355,
+        "y_max": 0.4194,
+        "style_id": 4
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.4516,
+        "x_max": 0.129,
+        "y_max": 0.5161,
+        "style_id": 0
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1613,
+        "y_min": 0.4516,
+        "x_max": 0.4839,
+        "y_max": 0.4839,
+        "style_id": 1
+      },
+      {
+        "class": "CheckBox",
+        "class_id": 5,
+        "x_min": 0.871,
+        "y_min": 0.4516,
+        "x_max": 0.9355,
+        "y_max": 0.4839,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.5161,
+        "x_max": 0.129,
+        "y_max": 0.5806,
+        "style_id": 3
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.0,
+        "y_min": 0.5806,
+        "x_max": 1.0,
+        "y_max": 0.6452,
+        "style_id": 2
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.6452,
+        "x_max": 0.129,
+        "y_max": 0.7097,
+        "style_id": 7
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1613,
+        "y_min": 0.6452,
+        "x_max": 0.2581,
+        "y_max": 0.6774,
+        "style_id": 0
+      },
+      {
+        "class": "Toggle",
+        "class_id": 8,
+        "x_min": 0.8387,
+        "y_min": 0.6452,
+        "x_max": 0.9355,
+        "y_max": 0.6774,
+        "style_id": 1
+      },
+      {
+        "class": "Image",
+        "class_id": 9,
+        "x_min": 0.0,
+        "y_min": 0.7097,
+        "x_max": 0.129,
+        "y_max": 0.7742,
+        "style_id": 2
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.1613,
+        "y_min": 0.7419,
+        "x_max": 0.2903,
+        "y_max": 0.7742,
+        "style_id": 3
+      },
+      {
+        "class": "Toggle",
+        "class_id": 8,
+        "x_min": 0.8387,
+        "y_min": 0.7419,
+        "x_max": 0.9355,
+        "y_max": 0.7742,
+        "style_id": 4
+      },
+      {
+        "class": "Label",
+        "class_id": 3,
+        "x_min": 0.129,
+        "y_min": 0.0323,
+        "x_max": 0.3226,
+        "y_max": 0.0645,
+        "style_id": 3
+      }
+    ]
+  }
+]
